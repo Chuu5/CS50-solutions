@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Because in an array of sorted numbers, Bubble sort only takes n steps to complete compared to selection which takes twice (n²). With my tests I was able to conclude this
+
+sort2 uses: Merge sort
+
+How do you know?: Because in an array of random numbers, the merge sort is much faster compared to the other 2 types of sort. With my tests I was able to conclude that this was the fastest
+
+sort3 uses: Selection sort
+
+How do you know?: Because it takes twice as long as sort1 in a sorted array
